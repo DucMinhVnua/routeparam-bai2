@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "title": "Naruto",
+      "id": 0.6307680564436977,
+      "description": "Truyện đáng để đọc"
+    },
+    {
+      "title": "Doremon",
+      "description": "Truyện tuổi thơ",
+      "id": 0.8227108874741844
+    },
+    {
+      "title": "Conan",
+      "description": "Truyện thám tử lừng danh conan",
+      "id": 0.20273465618187037
+    }
+  ]
+}

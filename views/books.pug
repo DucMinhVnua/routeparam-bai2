@@ -1,0 +1,11 @@
+h1 My books
+ul 
+    li
+        a(href="/books/create") Create Book
+    hr
+    each book in books
+        li #{book.title} --- #{book.description}
+            span       
+            a(href="/books/update/" + book.id) Update Book
+            span  
+            a(href="/books/delete/" + book.id) Delete Book
